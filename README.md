@@ -1,4 +1,4 @@
-# BCCWJ Eye-Tracking Lab Notes
+# BCCWJ Eye-Tracking Experiment Notes
 
 Trilingual experiment logs and scripts for a Japanese reading eye-tracking study.
 
