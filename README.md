@@ -8,6 +8,14 @@ Trilingual experiment logs and scripts for a Japanese reading eye-tracking study
 
 Maintained by **Ikaruga**.
 
+## AI assistance · AI による支援 · AI 协助
+
+OpenAI Codex assists Ikaruga with experiment-log organization, Chinese/Japanese/English translation, scripting, and data checks. Ikaruga conducts the experiments and makes the research decisions and final content approvals. Translation review status is recorded separately for each document.
+
+OpenAI Codex は、実験記録の整理、中国語・日本語・英語間の翻訳、スクリプト作成、データ確認を支援しています。実験の実施、研究上の判断、内容の最終承認は Ikaruga が行います。訳文の確認状況は各文書に別途明記しています。
+
+OpenAI Codex 协助 Ikaruga 整理实验日志、进行中日英翻译、编写脚本及核查数据。实验实施、研究决策与内容定稿由 Ikaruga 负责；译文的人工确认状态在各文档中另行标注。
+
 ## Experiment logs · 実験記録 · 实验日志
 
 | Date / 日期 / 日付 | 中文 | 日本語 | English |
